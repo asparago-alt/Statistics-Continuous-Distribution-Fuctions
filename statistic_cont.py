@@ -72,4 +72,4 @@ ax.set_ylim(bottom=0) # La densità non è mai negativa
 ax.legend()
 st.pyplot(fig)
 
-#$env:PYTHONUTF8=1; py -m streamlit run "C:\Users\alexs\Desktop\PYTHON\static_cont.py"$env:PYTHONUTF8=1; py -m streamlit run "C:\Users\alexs\Desktop\PYTHON\statistic_cont.py"
+
